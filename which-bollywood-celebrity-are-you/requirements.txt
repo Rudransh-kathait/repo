@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+opencv-python
+mtcnn
+Pillow
+tensorflow
+keras-vggface
+tqdm
+bing-image-downloader
+streamlit
